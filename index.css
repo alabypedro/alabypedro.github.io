@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(131, 160, 223);
+}
+
+h1 {
+    font-size: 30pt;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+   color: blue;
+   font-style: italic;
+   font-size: large;
+}
+
+h3 {
+    text-align: center;
+}
